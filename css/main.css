@@ -262,7 +262,7 @@ textarea {
 }
 
 body {
-  background: white;
+  background: linear-gradient(4deg,#f12711, #f5af19) no-repeat center center fixed;
 }
 
 h1 {
