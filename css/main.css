@@ -278,6 +278,10 @@ h1:hover {
 img {
   width:50%;
   height: auto;
+  position: center;
+  margin: auto;
+  alignment: center;
+
 }
 
 a{
