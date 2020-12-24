@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="anges in pictures in Earth">
+    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="size">
+      <change afterPath="$PROJECT_DIR$/Wind.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Windimg/A High Breeze FR.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Windimg/Joggled by the Wind FR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Windimg/Reaching the Top FR.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Windimg/Somewhere in the Mountains FR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Windimg/The Fallen Angel FR.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
@@ -32,6 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -41,7 +48,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\prunesite\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\prunesite\img\Windimg" />
       <recent name="C:\Users\user\WebstormProjects\prunesite\img\earthimg" />
       <recent name="C:\Users\user\WebstormProjects\prunesite\img" />
     </key>
@@ -56,7 +67,7 @@
       <updated>1608760058434</updated>
       <workItem from="1608760061205" duration="3863000" />
       <workItem from="1608768660280" duration="4494000" />
-      <workItem from="1608816991237" duration="3059000" />
+      <workItem from="1608816991237" duration="8005000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1608760846453</created>
@@ -149,7 +160,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608830980290</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="anges in pictures index">
+      <created>1608832480529</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1608832480529</updated>
+    </task>
+    <task id="LOCAL-00015" summary="size">
+      <created>1608832585191</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1608832585191</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +198,8 @@
     <MESSAGE value="changes in EARTH" />
     <MESSAGE value=" ch" />
     <MESSAGE value="anges in pictures in Earth" />
-    <option name="LAST_COMMIT_MESSAGE" value="anges in pictures in Earth" />
+    <MESSAGE value="anges in pictures index" />
+    <MESSAGE value="size" />
+    <option name="LAST_COMMIT_MESSAGE" value="size" />
   </component>
 </project>
