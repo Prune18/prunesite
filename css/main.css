@@ -284,5 +284,9 @@ a{
   font-family: 'Rubik', sans-serif;
   color: #555555;
   font-size: 15pt
-;
+}
+
+mySlides {
+  width:50%;
+  height: auto;
 }

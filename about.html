@@ -27,8 +27,35 @@
 <!-- Add your site or application content here -->
 <h1>Prune Huguet</h1>
 <p>Hello world! This is HTML5 Boilerplate.</p>
-<img src="img/IMG20180721132804 (1).jpg">
+<div class="w3-content w3-display-container">
+  <img class="mySlides" src="img/IMG20180816183448%20(1).jpg">
+  <img class="mySlides" src="img/IMG20201215105514%20(1).jpg">
+  <img class="mySlides" src="img/IMG_20170825_205548%20(1).jpg">
+  <img class="mySlides" src="img/IMG20201214160601%20(2).jpg">
 
+  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+</div>
+
+<script>
+  var slideIndex = 1;
+  showDivs(slideIndex);
+
+  function plusDivs(n) {
+    showDivs(slideIndex += n);
+  }
+
+  function showDivs(n) {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    if (n > x.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = x.length}
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";
+    }
+    x[slideIndex-1].style.display = "block";
+  }
+</script>
 
 <script src="js/vendor/modernizr-3.11.2.min.js"></script>
 <script src="js/plugins.js"></script>
