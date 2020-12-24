@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="size">
-      <change afterPath="$PROJECT_DIR$/Wind.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Windimg/A High Breeze FR.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Windimg/Joggled by the Wind FR.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Windimg/Reaching the Top FR.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Windimg/Somewhere in the Mountains FR.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/Windimg/The Fallen Angel FR.jpg" afterDir="false" />
+    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="WIND">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wind.html" beforeDir="false" afterPath="$PROJECT_DIR$/Wind.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +61,7 @@
       <updated>1608760058434</updated>
       <workItem from="1608760061205" duration="3863000" />
       <workItem from="1608768660280" duration="4494000" />
-      <workItem from="1608816991237" duration="8005000" />
+      <workItem from="1608816991237" duration="9337000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1608760846453</created>
@@ -174,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608832585191</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="WIND">
+      <created>1608837700038</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1608837700038</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +201,7 @@
     <MESSAGE value="anges in pictures in Earth" />
     <MESSAGE value="anges in pictures index" />
     <MESSAGE value="size" />
-    <option name="LAST_COMMIT_MESSAGE" value="size" />
+    <MESSAGE value="WIND" />
+    <option name="LAST_COMMIT_MESSAGE" value="WIND" />
   </component>
 </project>

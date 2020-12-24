@@ -287,7 +287,8 @@ img {
 a{
   font-family: 'Rubik', sans-serif;
   color: #555555;
-  font-size: 15pt
+  font-size: 15pt;
+  position: center;
 }
 
 slideshow img{
