@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="WIND">
+      <change afterPath="$PROJECT_DIR$/Fire.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Fireimg/Bright &amp; Red ES.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Fireimg/Calm and serennity, ES.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Fireimg/IMG20190718120743 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Fireimg/Licked by the Flames.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Fireimg/Light Up the World FR.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wind.html" beforeDir="false" afterPath="$PROJECT_DIR$/Wind.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +51,7 @@
       <recent name="C:\Users\user\WebstormProjects\prunesite\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\prunesite\img\Fireimg" />
       <recent name="C:\Users\user\WebstormProjects\prunesite\img\Windimg" />
       <recent name="C:\Users\user\WebstormProjects\prunesite\img\earthimg" />
       <recent name="C:\Users\user\WebstormProjects\prunesite\img" />
@@ -63,7 +67,7 @@
       <updated>1608760058434</updated>
       <workItem from="1608760061205" duration="3863000" />
       <workItem from="1608768660280" duration="4494000" />
-      <workItem from="1608816991237" duration="10314000" />
+      <workItem from="1608816991237" duration="11281000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1608760846453</created>
@@ -198,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608850288682</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="WIND">
+      <created>1608850934699</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1608850934699</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
