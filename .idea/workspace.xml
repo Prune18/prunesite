@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="background color">
+    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/earthimg/A Burning Eye TH.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/earthimg/A Lost Stall in the Fish Market TH.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/earthimg/A Natural Mirror FR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/earthimg/A Tree Trunk CA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/earthimg/A Waterfall of Roots CM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/earthimg/A colorful Bo TH.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/earthimg/Between the Sky and the Sea ES.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/earthimg/In a lost garden ES.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/earthimg/Infinite Rolls of Incents HK.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/earthimg/Perspective ES.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/earthimg/Relaxing Sunset CM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/earthimg/The Bloom SG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/earthimg/The End of the World _  TH.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/earthimg/The Prayer and The Worshipped CM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/earthimg/The Unexpected Alignment of Golden Bells TH.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +58,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\prunesite\img\earthimg" />
       <recent name="C:\Users\user\WebstormProjects\prunesite\img" />
     </key>
   </component>
@@ -54,7 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1608760058434</updated>
       <workItem from="1608760061205" duration="3863000" />
-      <workItem from="1608768660280" duration="2066000" />
+      <workItem from="1608768660280" duration="4494000" />
+      <workItem from="1608816991237" duration="2048000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1608760846453</created>
@@ -119,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608768918036</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=" ch">
+      <created>1608777421552</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608777421552</updated>
+    </task>
+    <task id="LOCAL-00011" summary=" ch">
+      <created>1608777690130</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608777690130</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,11 +167,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="background color" />
     <MESSAGE value="changes in EARTH" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes in EARTH" />
+    <MESSAGE value=" ch" />
+    <option name="LAST_COMMIT_MESSAGE" value=" ch" />
   </component>
 </project>
