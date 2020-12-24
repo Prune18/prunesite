@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="WIND">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wind.html" beforeDir="false" afterPath="$PROJECT_DIR$/Wind.html" afterDir="false" />
-    </list>
+    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="WIND" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +58,7 @@
       <updated>1608760058434</updated>
       <workItem from="1608760061205" duration="3863000" />
       <workItem from="1608768660280" duration="4494000" />
-      <workItem from="1608816991237" duration="9337000" />
+      <workItem from="1608816991237" duration="9581000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1608760846453</created>
@@ -175,7 +172,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608837700038</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="WIND">
+      <created>1608839711287</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1608839711287</updated>
+    </task>
+    <task id="LOCAL-00018" summary="WIND">
+      <created>1608839761111</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1608839761112</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
