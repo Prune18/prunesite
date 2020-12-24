@@ -289,4 +289,7 @@ a{
 slideshow img{
   width:50%;
   height: auto;
+  position: center;
+  margin: auto;
+  alignment: center;
 }
