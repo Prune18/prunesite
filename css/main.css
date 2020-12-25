@@ -257,11 +257,25 @@ textarea {
     widows: 3;
   }
 
-  h2,
+  h2{
+    font-family: 'Rubik', sans-serif;
+    font-size: 15pt;
+    color: white;
+    position: center;
+    height: auto;
+    margin: 0;
+  }
+
+
+  }
   h3 {
     page-break-after: avoid;
   }
+
+h2:hover{
+  color: #F2F2F2;
 }
+
 
 body {
   background: linear-gradient(4deg,#000428,#004e92) no-repeat center center fixed;
@@ -269,6 +283,11 @@ body {
 
 h1 {
   font-family: 'Rubik', sans-serif;
+  font-size: 25pt;
+  color: white;
+  position: center;
+  height: auto;
+  margin: 0;
 }
 
 h1:hover {
@@ -276,10 +295,10 @@ h1:hover {
 }
 
 img {
-  width:50%;
+  width:100%;
   height: auto;
   position: center;
-  margin: auto;
+  margin: 0;
   alignment: center;
 
 }
@@ -294,49 +313,14 @@ a{
 }
 
 slideshow img{
-  width:50%;
+  width:75%;
   height: auto;
   position: center;
   margin: auto;
   alignment: center;
 }
 
-.webmadewell {
-  background-color: white;
-}
-body {
-  margin: 0;
-}
-.sample-header {
-  position: fixed;
-  left: 0;
-  top: 0;
-  width: 100%;
-
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-.sample-header::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  background-color: MidnightBlue;
-  opacity: 0.3;
-}
-.sample-header-section {
-  position: relative;
-  padding: 15% 0 10%;
-  max-width: 640px;
-  margin-left: auto;
-  margin-right: auto;
-  color: white;
-  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
-  font-family: "Montserrat", sans-serif;
-}
+.
 h1 {
   font-weight: 500;
 }
