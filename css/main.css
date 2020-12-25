@@ -300,7 +300,6 @@ img {
   position: center;
   margin: 0;
   alignment: center;
-
 }
 
 a{
@@ -313,14 +312,13 @@ a{
 }
 
 slideshow img{
-  width:75%;
+  width:50%;
   height: auto;
   position: center;
   margin: auto;
   alignment: center;
 }
 
-.
 h1 {
   font-weight: 500;
 }
