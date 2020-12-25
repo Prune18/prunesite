@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="some modifs">
-      <change afterPath="$PROJECT_DIR$/FleshandBlood.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/FleshandBloodimg/A Tight Sleep SG.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/FleshandBloodimg/Dare Devils FR.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/FleshandBloodimg/Hungry yet _ SG.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/FleshandBloodimg/Lost in the Wild ID.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/FleshandBloodimg/The eye.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/Flesh and Blood.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="Modifications of Flesh And Blood + Index" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +70,7 @@
       <updated>1608760058434</updated>
       <workItem from="1608760061205" duration="3863000" />
       <workItem from="1608768660280" duration="4494000" />
-      <workItem from="1608816991237" duration="21253000" />
+      <workItem from="1608816991237" duration="22125000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1608760846453</created>
@@ -272,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608908432656</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Modifications of Flesh And Blood + Index">
+      <created>1608911617793</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1608911617793</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,6 +298,7 @@
     <MESSAGE value="FIRE" />
     <MESSAGE value="Scrollable Background" />
     <MESSAGE value="some modifs" />
-    <option name="LAST_COMMIT_MESSAGE" value="some modifs" />
+    <MESSAGE value="Modifications of Flesh And Blood + Index" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modifications of Flesh And Blood + Index" />
   </component>
 </project>
