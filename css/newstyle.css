@@ -38,12 +38,12 @@ main h1 {
   padding-top: 30px;
 }
 
-main img:hover{
-  transform: scale(2);
+/*main img:hover{*/
+/*  transform: scale(2);*/
 
-  /*TODO: Make it scale based on screen size, not scale when on phone*/
+/*  !*TODO: Make it scale based on screen size, not scale when on phone*!*/
 
-}
+/*}*/
 
 titlebar{
   font-weight: 600;
