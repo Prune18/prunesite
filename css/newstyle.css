@@ -8,6 +8,43 @@ body{
 }
 
 
+main {
+  max-width: 1850px;
+  margin: auto;
+
+  padding: 60px;
+  height: 100%;
+
+}
+
+
+section {
+  background: #17141d;
+  /*box-shadow: -1rem 0 3rem #000;*/
+  margin: 0;
+  padding: 0;
+  transition: .2s;
+  overflow: hidden;
+}
+
+section img {
+  padding: 0;
+}
+
+main h1 {
+  display:flex;
+  column-span:all;
+  padding-bottom: 20px;
+  padding-top: 30px;
+}
+
+main img:hover{
+  transform: scale(2);
+
+  /*TODO: Make it scale based on screen size, not scale when on phone*/
+
+}
+
 titlebar{
   font-weight: 600;
   background-attachment: fixed;
@@ -57,6 +94,11 @@ main{
 img{
   width: 100%;
   height:auto;
+  padding: 20px;
+}
+
+main h1 {
+  font-size: 60pt;
 }
 
 * {box-sizing: border-box}
@@ -75,6 +117,9 @@ img {vertical-align: middle;}
 .slideshow-container:hover{
   overflow: visible;
   z-index: 50;
+  height: 70vh;
+  width: auto;
+  max-height: 70vh;
 }
 
 /* Next & previous buttons */
@@ -103,4 +148,98 @@ img {vertical-align: middle;}
 .prev:hover, .next:hover {
   background-color: #f1f1f1;
   color: black;
+}
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+
+
+
+
+@media (min-width: 850px) {
+  main {
+    column-count: 2;
+    column-gap: 20px;
+    padding: 60px;
+  }
+
+  section {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+  }
+}
+
+@media (min-width: 1280px) {
+  main {
+    column-count: 3;
+    padding: 60px;
+  }
+  section {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+  }
+}
+
+/*for phones to not have too much padding on the sides*/
+@media (max-width: 600px){
+  main {
+    column-count: 0;
+    padding: 60px;
+  }
+
+  main h1{
+    font-size: max(15vw, 20pt);
+  }
+
+  main{
+    padding: 20px;
+  }
+
+  canvas{
+    display: none;
+  }
+
+  .section:hover {
+    transform: scale(1.05) translateZ(400px);
+  }
+
+  main img:hover{
+    transform: scale(1.1);
+  }
 }
