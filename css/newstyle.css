@@ -52,7 +52,7 @@ titlebar{
   position: sticky;
   font-size: max(min(3vmin, 30pt), 10pt);
   top: 0;
-  background: rgba(255,255,255,0.4);
+  background: rgba(14, 2, 79,0.5);
   backdrop-filter: blur(6px);
   -webkit-backdrop-filter: blur(6px);
   padding: min(2vmin, 140pt);
@@ -66,10 +66,10 @@ titlebar{
 
 titlebar lottie-player{
   position: absolute;
-  top: -30%;
+  top: 0;
   left: 5%;
   display: compact;
-  margin: 0;
+  margin: -90px;
   padding: 0;
   height: auto;
   width: auto;
