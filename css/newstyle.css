@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
+body{
+  background: linear-gradient(4deg,#000428,#004e92) no-repeat center center fixed;
+  font-family: Rubik, serif ;
+  color: white;
+}
+
+
+main {
+  max-width: 1850px;
+  margin: auto;
+
+  padding: 60px;
+  height: 100%;
+
+}
+
+
+section {
+  background: #17141d;
+  /*box-shadow: -1rem 0 3rem #000;*/
+  margin: 0;
+  padding: 0;
+  transition: .2s;
+  overflow: hidden;
+}
+
+section img {
+  padding: 0;
+}
+
+main h1 {
+  display:flex;
+  column-span:all;
+  padding-bottom: 20px;
+  padding-top: 30px;
+}
+
+main img:hover{
+  transform: scale(2);
+
+  /*TODO: Make it scale based on screen size, not scale when on phone*/
+
+}
+
+titlebar{
+  font-weight: 600;
+  background-attachment: fixed;
+  font-style: normal;
+  position: sticky;
+  font-size: max(min(3vmin, 30pt), 10pt);
+  top: 0;
+  background: rgba(255,255,255,0.4);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  padding: min(2vmin, 140pt);
+  text-align: center;
+  z-index: 20;
+  color: white;
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+
+titlebar lottie-player{
+  position: absolute;
+  top: -30%;
+  left: 5%;
+  display: compact;
+  margin: 0;
+  padding: 0;
+  height: auto;
+  width: auto;
+
+}
+
+titlebar h1 {
+  top: 0;
+  font-size: 40pt;
+}
+
+titlebar p {
+  font-size: 20pt;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+titlebar a {
+  font-size: 15pt;
+  font-weight: 400;
+  color: white;
+  margin: 0 15pt;
+  padding: 0;
+}
+
+main{
+  max-width: 1600px;
+  margin: auto;
+
+  padding: 60px;
+  height: 100%;
+}
+
+img{
+  width: 100%;
+  height:auto;
+  padding: 20px;
+}
+
+main h1 {
+  font-size: 60pt;
+}
+
+* {box-sizing: border-box}
+.mySlides1, .mySlides2 {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  height: 60vh;
+  width: auto;
+  position: relative;
+  margin: auto;
+  overflow: hidden;
+}
+
+.slideshow-container:hover{
+  overflow: visible;
+  z-index: 50;
+  height: 70vh;
+  width: auto;
+  max-height: 70vh;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a grey background color */
+.prev:hover, .next:hover {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+
+
+
+
+@media (min-width: 850px) {
+  main {
+    column-count: 2;
+    column-gap: 20px;
+    padding: 60px;
+  }
+
+  section {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+  }
+}
+
+@media (min-width: 1280px) {
+  main {
+    column-count: 3;
+    padding: 60px;
+  }
+  section {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+  }
+}
+
+/*for phones to not have too much padding on the sides*/
+@media (max-width: 600px){
+  main {
+    column-count: 0;
+    padding: 60px;
+  }
+
+  main h1{
+    font-size: max(15vw, 20pt);
+  }
+
+  main{
+    padding: 20px;
+  }
+
+  canvas{
+    display: none;
+  }
+
+  .section:hover {
+    transform: scale(1.05) translateZ(400px);
+  }
+
+  main img:hover{
+    transform: scale(1.1);
+  }
+}

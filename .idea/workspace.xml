@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="Modifications of Flesh And Blood + Index" />
+    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="Change a lot of stuff">
+      <change beforePath="$PROJECT_DIR$/NewStyle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/newstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/newstyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -29,17 +34,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alexa\WebstormProjects\prunesite\css" />
       <recent name="C:\Users\user\WebstormProjects\prunesite\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -71,6 +79,7 @@
       <workItem from="1608760061205" duration="3863000" />
       <workItem from="1608768660280" duration="4494000" />
       <workItem from="1608816991237" duration="22125000" />
+      <workItem from="1609016861449" duration="6873000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1608760846453</created>
@@ -268,7 +277,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608911617793</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Good slideshow">
+      <created>1609020224744</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1609020224744</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Change a lot of stuff">
+      <created>1609023375993</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1609023375993</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,6 +322,8 @@
     <MESSAGE value="Scrollable Background" />
     <MESSAGE value="some modifs" />
     <MESSAGE value="Modifications of Flesh And Blood + Index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modifications of Flesh And Blood + Index" />
+    <MESSAGE value="Good slideshow" />
+    <MESSAGE value="Change a lot of stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change a lot of stuff" />
   </component>
 </project>
