@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
+body{
+  background: linear-gradient(4deg,#000428,#004e92) no-repeat center center fixed;
+  font-family: Rubik, serif ;
+  color: white;
+}
+
+
+titlebar{
+  font-weight: 600;
+  background-attachment: fixed;
+  font-style: normal;
+  position: sticky;
+  font-size: max(min(3vmin, 30pt), 10pt);
+  top: 0;
+  background: rgba(255,255,255,0.4);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  padding: min(2vmin, 140pt);
+  text-align: center;
+  z-index: 20;
+  color: white;
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+
+titlebar h1 {
+  top: 0;
+  font-size: 40pt;
+}
+
+titlebar p {
+  font-size: 20pt;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+titlebar a {
+  font-size: 15pt;
+  font-weight: 400;
+  color: white;
+  margin: 0 15pt;
+  padding: 0;
+}
+
+main{
+  max-width: 1600px;
+  margin: auto;
+
+  padding: 60px;
+  height: 100%;
+}
+
+img{
+  width: 100%;
+  height:auto;
+}
+
+* {box-sizing: border-box}
+.mySlides1, .mySlides2 {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  height: 60vh;
+  width: auto;
+  position: relative;
+  margin: auto;
+  overflow: hidden;
+}
+
+.slideshow-container:hover{
+  overflow: visible;
+  z-index: 50;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a grey background color */
+.prev:hover, .next:hover {
+  background-color: #f1f1f1;
+  color: black;
+}

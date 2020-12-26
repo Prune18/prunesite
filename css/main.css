@@ -294,13 +294,6 @@ h1:hover {
   color: #F2F2F2;
 }
 
-img {
-  width:100%;
-  height: auto;
-  position: center;
-  margin: 0;
-  alignment: center;
-}
 
 a{
   font-family: 'Rubik', sans-serif;
@@ -337,3 +330,10 @@ h2 {
   padding: 40px;
 }
 
+img{
+  position: center;
+  margin: 0;
+  alignment: center;
+  height: auto;
+  width: 100%;
+}

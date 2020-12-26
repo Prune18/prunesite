@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+
+  <meta name="theme-color" content="#fafafa">
+  <link rel="stylesheet" href="css/newstyle.css">
+</head>
+<body>
+<titlebar class="titlebar">
+  <h1>
+    Prune's Pics
+  </h1>
+  <p>
+    Some of my favourite photos.
+  </p>
+  <ul>
+    <a href="#earth">Earth</a>
+    <a href="#wind">Wind</a>
+    <a href="#fire">Fire</a>
+    <a href="#flesh">Flesh & Blood</a>
+  </ul>
+</titlebar>
+
+<main class="main">
+  <h1>
+    Fire
+  </h1>
+  <div id="fire" class="slideshow-container">
+    <div class="fireslides">
+      <img src="img/Fireimg/Bright%20&%20Red%20ES.jpg" style="width:100%">
+    </div>
+
+
+    <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
+  </div>
+  <h1>
+    Wind
+  </h1>
+  <div id="wind" class="slideshow-container">
+    <div class="windslides">
+      <img src="img/Windimg/A%20High%20Breeze%20FR.jpeg" style="width:100%">
+    </div>
+
+
+    <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
+  </div>
+  <h1>
+    Earth
+  </h1>
+  <div id="earth" class="slideshow-container">
+    <div class="earthslides">
+      <img src="img/earthimg/A%20Burning%20Eye%20TH.jpg" style="width:100%">
+    </div>
+
+
+    <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
+  </div>
+
+  <h1>
+    Flesh & Blood
+  </h1>
+  <div id="flesh" class="slideshow-container">
+    <div class="fleshslides">
+      <img src="img/FleshandBloodimg/A%20Tight%20Sleep%20SG.jpg" style="width:100%">
+    </div>
+
+
+    <a class="prev" onclick="plusSlides(-1, 1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1, 1)">&#10095;</a>
+  </div>
+
+</main>
+
+
+
+<script>
+  var slideIndex = [1,1];
+  var slideId = ["earthslides", "windslides", "fireslides","fleshslides"]
+  showSlides(1, 0);
+  showSlides(1, 1);
+
+  function plusSlides(n, no) {
+    showSlides(slideIndex[no] += n, no);
+  }
+
+  function showSlides(n, no) {
+    var i;
+    var x = document.getElementsByClassName(slideId[no]);
+    if (n > x.length) {slideIndex[no] = 1}
+    if (n < 1) {slideIndex[no] = x.length}
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";
+    }
+    x[slideIndex[no]-1].style.display = "block";
+  }
+</script>
+
+
+
+
+<script src="js/vendor/modernizr-3.11.2.min.js"></script>
+<script src="js/plugins.js"></script>
+<script src="js/main.js"></script>
+
+<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+<script>
+  window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+  ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')
+</script>
+<script src="https://www.google-analytics.com/analytics.js" async></script>
+</body>
+</html>
