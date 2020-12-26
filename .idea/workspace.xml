@@ -1,29 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="Good slideshow">
-      <change afterPath="$PROJECT_DIR$/css/stars.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NewStyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/NewStyle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="Change a lot of stuff">
+      <change beforePath="$PROJECT_DIR$/NewStyle.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/newstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/newstyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Fireimg/IMG20190718120743 (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/earthimg/A Burning Eye TH.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Earthimg/A Burning Eye TH.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/earthimg/A Lost Stall in the Fish Market TH.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Earthimg/A Lost Stall in the Fish Market TH.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/earthimg/A Natural Mirror FR.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Earthimg/A Natural Mirror FR.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/earthimg/A Tree Trunk CA.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Earthimg/A Tree Trunk CA.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/earthimg/A Waterfall of Roots CM.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Earthimg/A Waterfall of Roots CM.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/earthimg/A colorful Bo TH.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Earthimg/A colorful Bo TH.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/earthimg/Between the Sky and the Sea ES.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Earthimg/Between the Sky and the Sea ES.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/earthimg/In a lost garden ES.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Earthimg/In a lost garden ES.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/earthimg/Infinite Rolls of Incents HK.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Earthimg/Infinite Rolls of Incents HK.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/earthimg/Perspective ES.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Earthimg/Perspective ES.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/earthimg/Relaxing Sunset CM.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Earthimg/Relaxing Sunset CM.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/earthimg/The Bloom SG.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Earthimg/The Bloom SG.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/earthimg/The End of the World _  TH.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Earthimg/The End of the World _  TH.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/earthimg/The Prayer and The Worshipped CM.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Earthimg/The Prayer and The Worshipped CM.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/earthimg/The Unexpected Alignment of Golden Bells TH.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/Earthimg/The Unexpected Alignment of Golden Bells TH.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +79,7 @@
       <workItem from="1608760061205" duration="3863000" />
       <workItem from="1608768660280" duration="4494000" />
       <workItem from="1608816991237" duration="22125000" />
-      <workItem from="1609016861449" duration="6494000" />
+      <workItem from="1609016861449" duration="6873000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1608760846453</created>
@@ -303,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609020224744</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Change a lot of stuff">
+      <created>1609023375993</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1609023375993</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,6 +323,7 @@
     <MESSAGE value="some modifs" />
     <MESSAGE value="Modifications of Flesh And Blood + Index" />
     <MESSAGE value="Good slideshow" />
-    <option name="LAST_COMMIT_MESSAGE" value="Good slideshow" />
+    <MESSAGE value="Change a lot of stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change a lot of stuff" />
   </component>
 </project>

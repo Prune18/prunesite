@@ -64,6 +64,18 @@ titlebar{
   justify-content: center;
 }
 
+titlebar lottie-player{
+  position: absolute;
+  top: -30%;
+  left: 5%;
+  display: compact;
+  margin: 0;
+  padding: 0;
+  height: auto;
+  width: auto;
+
+}
+
 titlebar h1 {
   top: 0;
   font-size: 40pt;
