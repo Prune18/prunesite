@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="Without hover">
+    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="Add title">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/newstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/newstyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -302,7 +301,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609024062037</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Improve animation and header">
+      <created>1609024614918</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1609024614918</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Add title">
+      <created>1609024695244</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1609024695244</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,6 +349,8 @@
     <MESSAGE value="Good slideshow" />
     <MESSAGE value="Change a lot of stuff" />
     <MESSAGE value="Without hover" />
-    <option name="LAST_COMMIT_MESSAGE" value="Without hover" />
+    <MESSAGE value="Improve animation and header" />
+    <MESSAGE value="Add title" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add title" />
   </component>
 </project>
