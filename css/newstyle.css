@@ -3,8 +3,14 @@
 
 body{
   background: linear-gradient(4deg,#000428,#004e92) no-repeat center center fixed;
-  font-family: Rubik, serif ;
+  font-size: 13pt;
+  font-weight: 400;
+  margin-top: 0;
+  font-family: 'Dancing Script', cursive;
+  position: sticky;
   color: white;
+
+
 }
 
 
@@ -49,6 +55,7 @@ titlebar{
   font-weight: 600;
   background-attachment: fixed;
   font-style: normal;
+  font-family: 'Dancing Script', cursive;
   position: sticky;
   font-size: max(min(3vmin, 30pt), 10pt);
   top: 0;
@@ -64,27 +71,40 @@ titlebar{
   justify-content: center;
 }
 
-titlebar lottie-player{
-  position: absolute;
-  top: 0;
-  left: 5%;
+titlebar img{
+  position: fixed;
+  width: 20%;
+  height:auto;
+  padding: min(2vmin, 140pt);
+  top: 40%;
+  left: 2%;
   display: compact;
   margin: -90px;
-  padding: 0;
-  height: auto;
-  width: auto;
+
+
+/*titlebar lottie-player{*/
+/*  position: absolute;*/
+/*  top: 0;*/
+/*  left: 5%;*/
+/*  display: compact;*/
+/*  margin: -90px;*/
+/*  padding: 0;*/
+/*  height: auto;*/
+/*  width: auto;*/
 
 }
 
 titlebar h1 {
   top: 0;
   font-size: 40pt;
+  font-family: 'Dancing Script', cursive;
 }
 
 titlebar p {
   font-size: 20pt;
   font-weight: 400;
   margin-top: 0;
+  font-family: 'Dancing Script', cursive;
 }
 
 titlebar a {
@@ -93,6 +113,7 @@ titlebar a {
   color: white;
   margin: 0 15pt;
   padding: 0;
+  font-family: 'Dancing Script', cursive;
 }
 
 main{
@@ -111,6 +132,7 @@ img{
 
 main h1 {
   font-size: 60pt;
+  font-family: 'Dancing Script', cursive;
 }
 
 * {box-sizing: border-box}

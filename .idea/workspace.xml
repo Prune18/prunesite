@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="Added Images" />
+    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="deleted a duplicate">
+      <change afterPath="$PROJECT_DIR$/img/Prune JPG SAA00110_1-5star.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/newstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/newstyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,11 +52,11 @@
       <recent name="C:\Users\user\WebstormProjects\prunesite\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\prunesite\img" />
       <recent name="C:\Users\user\WebstormProjects\prunesite\img\Fireimg" />
       <recent name="C:\Users\user\WebstormProjects\prunesite\img\Earthimg" />
       <recent name="C:\Users\user\WebstormProjects\prunesite\img\Windimg" />
       <recent name="C:\Users\user\WebstormProjects\prunesite\img\earthimg" />
-      <recent name="C:\Users\user\WebstormProjects\prunesite\img" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -80,7 +85,7 @@
       <workItem from="1608768660280" duration="4494000" />
       <workItem from="1608816991237" duration="22125000" />
       <workItem from="1609016861449" duration="6873000" />
-      <workItem from="1609077182670" duration="2670000" />
+      <workItem from="1609077182670" duration="5094000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1608760846453</created>
@@ -327,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609080911585</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="deleted a duplicate">
+      <created>1609083966157</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1609083966157</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,6 +377,7 @@
     <MESSAGE value="Add title" />
     <MESSAGE value="Titled it People" />
     <MESSAGE value="Added Images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Images" />
+    <MESSAGE value="deleted a duplicate" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted a duplicate" />
   </component>
 </project>
