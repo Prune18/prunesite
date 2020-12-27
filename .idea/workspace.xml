@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="Add title">
+    <list default="true" id="10d4321e-2d5c-41bb-82a6-c0b8e3631419" name="Default Changelist" comment="Titled it People">
+      <change afterPath="$PROJECT_DIR$/img/Earthimg/A natural throne, CA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Earthimg/As the sun goes down, FR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Earthimg/Bittercold, CA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Earthimg/Colorful Pollination, FR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Earthimg/Feel the Cold, CA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Earthimg/Holy Stained Glass, FR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Earthimg/Horizon, ES.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Earthimg/Icy Waterfall, CA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Earthimg/MTL, CA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Fireimg/A Sky on Fire, FR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Fireimg/Holy Spirit, FR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Fireimg/The bulb, CA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Windimg/A windy summit, FR.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -50,11 +63,11 @@
       <recent name="C:\Users\user\WebstormProjects\prunesite\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\WebstormProjects\prunesite\img" />
-      <recent name="C:\Users\user\WebstormProjects\prunesite\img\earthimg\FleshandBloodimg" />
       <recent name="C:\Users\user\WebstormProjects\prunesite\img\Fireimg" />
+      <recent name="C:\Users\user\WebstormProjects\prunesite\img\Earthimg" />
       <recent name="C:\Users\user\WebstormProjects\prunesite\img\Windimg" />
       <recent name="C:\Users\user\WebstormProjects\prunesite\img\earthimg" />
+      <recent name="C:\Users\user\WebstormProjects\prunesite\img" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -83,6 +96,7 @@
       <workItem from="1608768660280" duration="4494000" />
       <workItem from="1608816991237" duration="22125000" />
       <workItem from="1609016861449" duration="6873000" />
+      <workItem from="1609077182670" duration="2243000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1608760846453</created>
@@ -315,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609024695244</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Titled it People">
+      <created>1609028478260</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1609028478260</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,6 +372,7 @@
     <MESSAGE value="Without hover" />
     <MESSAGE value="Improve animation and header" />
     <MESSAGE value="Add title" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add title" />
+    <MESSAGE value="Titled it People" />
+    <option name="LAST_COMMIT_MESSAGE" value="Titled it People" />
   </component>
 </project>
